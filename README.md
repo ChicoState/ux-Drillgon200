@@ -1,1 +1,1 @@
-# ___'s UX Journal
+# Evan Pottier's UX Journal

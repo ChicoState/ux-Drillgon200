@@ -2,7 +2,9 @@
 
 One of the most annoying things about playing VR games is the setup and teardown process. Simply getting to a game's menu screen is an ordeal that is often full of bugs and other issues, and often takes several minutes. This is in stark contrast to starting a non VR game, which is usually as simple as double clicking the game icon.
 
-## Steps
+My goal in this is very simple: get to the main menu of a VR game running on my PC, then close the game and disconnect from my PC.
+
+## Interaction
 
 1. I unplug the Quest 2 from its charging cable, the attach the external battery charging cable and magnetically snap on a charged external battery. This battery serves a dual purpose, acting as both a charge boost and a counterweight for the heavy front of the headset.
 2. I plug in earbuds and press the power button
@@ -29,3 +31,6 @@ One of the most annoying things about playing VR games is the setup and teardown
 ![Step 10](assets/quest_step10.jpg)
 14. After Steam is closed, I open the virtual desktop menu with my left controller and click "Quit". This works, sending me back to the Quest home screen.
 15. I put down the Quest 2 and plug it into a charging cable.
+
+## Outcome
+While I did eventually get to the main menu of a game, it was a painful process with many bugs and workarounds that I only know because I've experimented enough to find them. The whole thing took around 10 minutes, which is a very long time if you just want to enjoy something after work/school or friends are waiting for you in a multiplayer lobby.

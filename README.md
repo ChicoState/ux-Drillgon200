@@ -3,3 +3,5 @@
 ![Evan Pottier](assets/evan_pottier.png)
 
 I'm a programmer with a focus on game engine and graphics programming with Vulkan.
+
+![Journal 1](Journal1.md)
